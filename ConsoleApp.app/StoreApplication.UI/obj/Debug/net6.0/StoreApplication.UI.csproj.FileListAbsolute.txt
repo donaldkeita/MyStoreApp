@@ -1,0 +1,12 @@
+C:\Users\Owner\source\repos\MyStoreApplication1\ConsoleApp.app\StoreApplication.UI\obj\Debug\net6.0\StoreApplication.UI.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\MyStoreApplication1\ConsoleApp.app\StoreApplication.UI\obj\Debug\net6.0\StoreApplication.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\MyStoreApplication1\ConsoleApp.app\StoreApplication.UI\obj\Debug\net6.0\StoreApplication.UI.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\MyStoreApplication1\ConsoleApp.app\StoreApplication.UI\obj\Debug\net6.0\StoreApplication.UI.AssemblyInfo.cs
+C:\Users\Owner\source\repos\MyStoreApplication1\ConsoleApp.app\StoreApplication.UI\obj\Debug\net6.0\StoreApplication.UI.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\MyStoreApplication1\ConsoleApp.app\StoreApplication.UI\bin\Debug\net6.0\StoreApplication.UI.deps.json
+C:\Users\Owner\source\repos\MyStoreApplication1\ConsoleApp.app\StoreApplication.UI\bin\Debug\net6.0\StoreApplication.UI.dll
+C:\Users\Owner\source\repos\MyStoreApplication1\ConsoleApp.app\StoreApplication.UI\bin\Debug\net6.0\StoreApplication.UI.pdb
+C:\Users\Owner\source\repos\MyStoreApplication1\ConsoleApp.app\StoreApplication.UI\obj\Debug\net6.0\StoreApplication.UI.dll
+C:\Users\Owner\source\repos\MyStoreApplication1\ConsoleApp.app\StoreApplication.UI\obj\Debug\net6.0\refint\StoreApplication.UI.dll
+C:\Users\Owner\source\repos\MyStoreApplication1\ConsoleApp.app\StoreApplication.UI\obj\Debug\net6.0\StoreApplication.UI.pdb
+C:\Users\Owner\source\repos\MyStoreApplication1\ConsoleApp.app\StoreApplication.UI\obj\Debug\net6.0\ref\StoreApplication.UI.dll

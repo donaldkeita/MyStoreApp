@@ -1,0 +1,15 @@
+C:\revature\VSStoreApplication\MyStoreApplication\StoreApplication.Infrastructure\bin\Debug\net6.0\StoreApplication.DataLogic.deps.json
+C:\revature\VSStoreApplication\MyStoreApplication\StoreApplication.Infrastructure\bin\Debug\net6.0\StoreApplication.DataLogic.dll
+C:\revature\VSStoreApplication\MyStoreApplication\StoreApplication.Infrastructure\bin\Debug\net6.0\StoreApplication.DataLogic.pdb
+C:\revature\VSStoreApplication\MyStoreApplication\StoreApplication.Infrastructure\bin\Debug\net6.0\StoreApplication.BusinessLogic.dll
+C:\revature\VSStoreApplication\MyStoreApplication\StoreApplication.Infrastructure\bin\Debug\net6.0\StoreApplication.BusinessLogic.pdb
+C:\revature\VSStoreApplication\MyStoreApplication\StoreApplication.Infrastructure\obj\Debug\net6.0\StoreApplication.DataLogic.csproj.AssemblyReference.cache
+C:\revature\VSStoreApplication\MyStoreApplication\StoreApplication.Infrastructure\obj\Debug\net6.0\StoreApplication.DataLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\revature\VSStoreApplication\MyStoreApplication\StoreApplication.Infrastructure\obj\Debug\net6.0\StoreApplication.DataLogic.AssemblyInfoInputs.cache
+C:\revature\VSStoreApplication\MyStoreApplication\StoreApplication.Infrastructure\obj\Debug\net6.0\StoreApplication.DataLogic.AssemblyInfo.cs
+C:\revature\VSStoreApplication\MyStoreApplication\StoreApplication.Infrastructure\obj\Debug\net6.0\StoreApplication.DataLogic.csproj.CoreCompileInputs.cache
+C:\revature\VSStoreApplication\MyStoreApplication\StoreApplication.Infrastructure\obj\Debug\net6.0\StoreApplication.DataLogic.csproj.CopyComplete
+C:\revature\VSStoreApplication\MyStoreApplication\StoreApplication.Infrastructure\obj\Debug\net6.0\StoreApplication.DataLogic.dll
+C:\revature\VSStoreApplication\MyStoreApplication\StoreApplication.Infrastructure\obj\Debug\net6.0\refint\StoreApplication.DataLogic.dll
+C:\revature\VSStoreApplication\MyStoreApplication\StoreApplication.Infrastructure\obj\Debug\net6.0\StoreApplication.DataLogic.pdb
+C:\revature\VSStoreApplication\MyStoreApplication\StoreApplication.Infrastructure\obj\Debug\net6.0\ref\StoreApplication.DataLogic.dll

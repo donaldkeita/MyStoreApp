@@ -1,0 +1,12 @@
+C:\revature\VSStoreApplication\MyStoreApplication\StoreApplication.Logic\bin\Debug\net6.0\StoreApplication.BusinessLogic.deps.json
+C:\revature\VSStoreApplication\MyStoreApplication\StoreApplication.Logic\bin\Debug\net6.0\StoreApplication.BusinessLogic.dll
+C:\revature\VSStoreApplication\MyStoreApplication\StoreApplication.Logic\bin\Debug\net6.0\StoreApplication.BusinessLogic.pdb
+C:\revature\VSStoreApplication\MyStoreApplication\StoreApplication.Logic\obj\Debug\net6.0\StoreApplication.BusinessLogic.csproj.AssemblyReference.cache
+C:\revature\VSStoreApplication\MyStoreApplication\StoreApplication.Logic\obj\Debug\net6.0\StoreApplication.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\revature\VSStoreApplication\MyStoreApplication\StoreApplication.Logic\obj\Debug\net6.0\StoreApplication.BusinessLogic.AssemblyInfoInputs.cache
+C:\revature\VSStoreApplication\MyStoreApplication\StoreApplication.Logic\obj\Debug\net6.0\StoreApplication.BusinessLogic.AssemblyInfo.cs
+C:\revature\VSStoreApplication\MyStoreApplication\StoreApplication.Logic\obj\Debug\net6.0\StoreApplication.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\revature\VSStoreApplication\MyStoreApplication\StoreApplication.Logic\obj\Debug\net6.0\StoreApplication.BusinessLogic.dll
+C:\revature\VSStoreApplication\MyStoreApplication\StoreApplication.Logic\obj\Debug\net6.0\refint\StoreApplication.BusinessLogic.dll
+C:\revature\VSStoreApplication\MyStoreApplication\StoreApplication.Logic\obj\Debug\net6.0\StoreApplication.BusinessLogic.pdb
+C:\revature\VSStoreApplication\MyStoreApplication\StoreApplication.Logic\obj\Debug\net6.0\ref\StoreApplication.BusinessLogic.dll

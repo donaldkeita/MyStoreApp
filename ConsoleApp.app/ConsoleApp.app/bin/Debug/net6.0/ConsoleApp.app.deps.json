@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleApp.app/1.0.0": {
+        "dependencies": {
+          "StoreApplication.UI": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleApp.app.dll": {}
+        }
+      },
+      "StoreApplication.UI/1.0.0": {
+        "runtime": {
+          "StoreApplication.UI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp.app/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StoreApplication.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
