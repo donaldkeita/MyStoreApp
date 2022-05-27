@@ -3,9 +3,16 @@
 
 ## Functionality
 * interactive console application with a REST HTTP API backend
+* place orders to store locations for customers
+* add a new customer
+* search customers by name
+* display details of an order
+* display all order history of a store location
+* display all order history of a customer
 * input validation (in the console app and also in the server)
 * exception handling, including foreseen SQL and HTTP errors
 * persistent data
+
 * (recommended: asynchronous network & other I/O, at least on the REST API)
 * (optional: logging of exceptions and other events
 
@@ -19,6 +26,25 @@
 * define and use at least one interface
 * best practices: separation of concerns, OOP principles, SOLID, REST, HTTP
 * XML documentation
+
+
+#### customer
+* has first name, last name, etc.
+* (optional: has a default store location to order from)
+
+#### order
+* has a store location
+* has a customer
+* has an order time (when the order was placed)
+* can contain multiple kinds of product in the same order
+* rejects orders with unreasonably high product quantities
+* (optional: some additional business rules, like special deals)
+
+#### location
+* has an inventory
+* inventory decreases when orders are accepted
+* rejects orders that cannot be fulfilled with remaining inventory
+* (optional: for at least one product, more than one inventory item decrements when ordering that product)
 
 
 ### REST API
